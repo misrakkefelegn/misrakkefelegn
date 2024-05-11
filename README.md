@@ -5,9 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on AXUM UNVERSITY
+- 🔭 I’m currently working at UNVERSITY
 - 🌱 I’m currently learning Hydraulic engineeering
-- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with reserch and communty service
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
