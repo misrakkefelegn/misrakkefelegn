@@ -5,11 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at UNVERSITY
+- 🔭 I’m currently working at unversity
 - 🌱 I’m currently learning Hydraulic engineeering
 - 🤔 I’m looking for help with research and communty service
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
